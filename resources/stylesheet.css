@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(20, 22, 58);
+    color: white;
+    font-family: Arial;
+}
+
+.title-logo{
+    display: inline;
+    vertical-align: middle;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.title{
+    display: inline;
+    font-family: Arial;
+    vertical-align: middle;
+}
